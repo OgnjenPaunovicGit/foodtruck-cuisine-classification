@@ -33,7 +33,7 @@ This dataset is a **standardized reference** for the classification of cuisine t
 This dataset is distributed under the **CC BY 4.0** license — you are free to reuse, modify, and redistribute it, provided you credit BFTFED as the source.
 
 **Consult the detailed terms and conditions here:**
-[Dissemination License - English](LICENSE_EN.md)
+[Dissemination License - English](LICENSE.md)
 
 ### 🛠️ Contributing / Proposing Modifications
 We accept external contributions via:
@@ -52,6 +52,8 @@ Every version of the table is archived. The version number and update date are i
 - `foodtruck-cuisine-classification-bftfed.sql` — SQL schema + data
 - `foodtruck-cuisine-classification-bftfed.csv` — CSV export
 - `foodtruck-cuisine-classification-bftfed.json` — JSON export
+- `foodtruck-cuisine-classification-bftfed.yml` — YML export
+- `foodtruck-cuisine-classification-bftfed.xml` — XML export
 
 ### 🌐 Recommended Use
 - For event / festival / market organizers
