@@ -3,7 +3,6 @@ Standardized Open Data classification of the types of cuisine offered by Food Tr
 Whose official website is: [BelgianFoodTruckFederation.org](https://www.belgianfoodtruckfederation.org)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-## 🇬🇧 English
 
 ### 📘 About the Dataset
 This dataset is a **standardized reference** for the classification of cuisine types intended for food trucks. It is maintained by the Belgian Food Truck Federation (BFTFED).
@@ -50,10 +49,9 @@ When proposing an addition or correction, please indicate:
 Every version of the table is archived. The version number and update date are indicated in the `version` or `date_updated` column.
 
 ### 📄 Available Formats
-- `classification_foodtruck_bftfed.sql` — SQL schema + data
-- `classification_foodtruck_bftfed.csv` — CSV export
-- `classification_foodtruck_bftfed.json` — JSON export
-- (optionally) `classification_foodtruck_bftfed.xml` — if needed
+- `foodtruck-cuisine-classification-bftfed.sql` — SQL schema + data
+- `foodtruck-cuisine-classification-bftfed.csv` — CSV export
+- `foodtruck-cuisine-classification-bftfed.json` — JSON export
 
 ### 🌐 Recommended Use
 - For event / festival / market organizers
@@ -62,5 +60,3 @@ Every version of the table is archived. The version number and update date are i
 - For mobile applications / websites / API referencing
 
 ---
-## FR Français
-... [Contenu NL (Complet)] ...
