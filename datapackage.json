@@ -1,0 +1,66 @@
+{
+  "name": "foodtruck-cuisine-classification-bftfed",
+  "title": "Foodtruck Cuisine Classification – BFTFED",
+  "description": "Multilingual (FR/NL/EN) classification of food-truck cuisines. Created and maintained by Fabrice Willot with the support of the Belgian Food-Trucks Federation (BFTFED). Licensed under CC BY 4.0.",
+  "keywords": [
+    "foodtruck",
+    "cuisine",
+    "taxonomy",
+    "classification",
+    "Belgium",
+    "open data"
+  ],
+  "homepage": "https://github.com/bftfed-team/foodtruck-cuisine-classification",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Fabrice Willot",
+      "email": "fabrice@bftfed.be",
+      "role": "author"
+    },
+    {
+      "title": "BFTFED - Belgian Food-Trucks Federation",
+      "email": "info@bftfed.be",
+      "role": "publisher"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/foodtruck-classification.csv",
+      "name": "foodtruck-classification-csv",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {"name": "concept_id", "type": "integer"},
+          {"name": "type_fr", "type": "string"},
+          {"name": "type_nl", "type": "string"},
+          {"name": "type_en", "type": "string"},
+          {"name": "category_fr", "type": "string"},
+          {"name": "category_nl", "type": "string"},
+          {"name": "category_en", "type": "string"},
+          {"name": "subcategory1_fr", "type": "string"},
+          {"name": "subcategory1_nl", "type": "string"},
+          {"name": "subcategory1_en", "type": "string"},
+          {"name": "subcategory2_fr", "type": "string"},
+          {"name": "subcategory2_nl", "type": "string"},
+          {"name": "subcategory2_en", "type": "string"},
+          {"name": "keywords_fr", "type": "string"},
+          {"name": "keywords_nl", "type": "string"},
+          {"name": "keywords_en", "type": "string"},
+          {"name": "dietary_tags", "type": "string"},
+          {"name": "source", "type": "string"},
+          {"name": "date_added", "type": "date"},
+          {"name": "last_modified", "type": "date"},
+          {"name": "status", "type": "string"}
+        ]
+      }
+    }
+  ]
+}
