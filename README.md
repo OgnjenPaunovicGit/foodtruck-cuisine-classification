@@ -1,6 +1,7 @@
 # foodtruck-cuisine-classification (BelgianFoodTruckFederation.org)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778580.svg)](https://doi.org/10.5281/zenodo.17778580)
 ![Multilingual FR/NL/EN](https://img.shields.io/badge/Multilingual-FR%20%2F%20NL%20%2F%20EN-darkgreen)
 ![Open Data](https://img.shields.io/badge/Open%20Data-Yes-success)
 ![Dataset Version](https://img.shields.io/badge/Version-1.0.2-green)
