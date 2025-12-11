@@ -41,8 +41,11 @@
     }
   ],
   "spatial": "http://publications.europa.eu/resource/authority/continent/WORLD",
-  "resources": [
-    {
-      "name": "cuisine_classification_csv",
-      "title": "Cuisine Classification (CSV / FR-NL-EN) - v1.0.2",
-      "path": "https://github.com/bftfed-team/foodtruck-cuisi
+"resources": [
+  {
+    "name": "cuisine_classification_csv",
+    "title": "Cuisine Classification (CSV / FR-NL-EN) - latest",
+    "path": "exports/latest/open_data.csv",
+    "format": "csv",
+    "mediatype": "text/csv"
+  },
