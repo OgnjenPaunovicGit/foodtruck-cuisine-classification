@@ -23,8 +23,7 @@ repository-code: "https://github.com/bftfed-team/foodtruck-cuisine-classificatio
 url: "https://belgianfoodtruckfederation.org/fr/open-data/"
 
 license: "CC-BY-4.0"
-
-version: "1.0.0"
+version: "1.0.2"
 date-released: "2025-11-30"
 
 keywords:
@@ -44,10 +43,10 @@ keywords:
 
 preferred-citation:
   type: dataset
-  title: "Foodtruck Cuisine Classification – BFTFED"
+  title: "Foodtruck Cuisine Classification – BFTFed."
   authors:
     - family-names: "Willot"
       given-names: "Fabrice"
-    - name: "Belgian Food Truck Federation (BFTFED)"
+    - name: "Belgian Food Truck Federation (BFTFed.)"
   year: 2025
-  version: "1.0.0"
+  version: "1.0.2"
