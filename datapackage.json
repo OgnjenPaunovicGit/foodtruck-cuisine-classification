@@ -1,66 +1,55 @@
 {
-  "name": "foodtruck-cuisine-classification-bftfed",
-  "title": "Foodtruck Cuisine Classification – BFTFED",
-  "description": "Multilingual (FR/NL/EN) classification of food-truck cuisines. Created and maintained by Fabrice Willot with the support of the Belgian Food-Trucks Federation (BFTFED). Licensed under CC BY 4.0.",
-  "keywords": [
-    "foodtruck",
-    "cuisine",
-    "taxonomy",
-    "classification",
-    "Belgium",
-    "open data"
-  ],
-  "homepage": "https://github.com/bftfed-team/foodtruck-cuisine-classification",
-  "version": "1.0.0",
+  "name": "foodtruck-cuisine-classification",
+  "title": "International Standard for Culinary Concepts for Food Trucks",
+  "description": "Multilingual and hierarchical classification reference of cuisines for food trucks. Designed for terminological uniformity and establishing a universal taxonomy by the Belgian Food Truck Federation (BFTFED). Published under CC BY 4.0 license.",
+  "id": "http://belgianfoodtruckfederation.org/dataset/yaml/opendata/foodtruck-cuisine-classification/",
+  "version": "1.0.2",
+  "keywords": ["food trucks", "cuisine", "taxonomy", "classification", "open data", "international", "culinary concept"],
+  "created": "2025-01-01",
+  "modified": "2025-12-11",
+  "languages": ["fr", "nl", "en"],
   "licenses": [
     {
       "name": "CC-BY-4.0",
-      "title": "Creative Commons Attribution 4.0",
+      "title": "Creative Commons Attribution 4.0 International",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
-  "contributors": [
-    {
-      "title": "Fabrice Willot",
-      "email": "fabrice@bftfed.be",
-      "role": "author"
-    },
-    {
-      "title": "BFTFED - Belgian Food-Trucks Federation",
-      "email": "info@bftfed.be",
-      "role": "publisher"
-    }
-  ],
+  "author": {
+    "name": "Belgian Food Truck Federation (BFTFED)",
+    "mbox": "support@bftfed.be",
+    "url": "https://www.belgianfoodtruckfederation.org",
+    "type": "organization"
+  },
+  "spatial": "http://publications.europa.eu/resource/authority/continent/WORLD",
   "resources": [
     {
-      "path": "data/foodtruck-classification.csv",
-      "name": "foodtruck-classification-csv",
+      "name": "cuisine_classification_csv",
+      "title": "Cuisine Classification (CSV / FR-NL-EN) - v1.0.2",
+      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.csv",
       "format": "csv",
-      "schema": {
-        "fields": [
-          {"name": "concept_id", "type": "integer"},
-          {"name": "type_fr", "type": "string"},
-          {"name": "type_nl", "type": "string"},
-          {"name": "type_en", "type": "string"},
-          {"name": "category_fr", "type": "string"},
-          {"name": "category_nl", "type": "string"},
-          {"name": "category_en", "type": "string"},
-          {"name": "subcategory1_fr", "type": "string"},
-          {"name": "subcategory1_nl", "type": "string"},
-          {"name": "subcategory1_en", "type": "string"},
-          {"name": "subcategory2_fr", "type": "string"},
-          {"name": "subcategory2_nl", "type": "string"},
-          {"name": "subcategory2_en", "type": "string"},
-          {"name": "keywords_fr", "type": "string"},
-          {"name": "keywords_nl", "type": "string"},
-          {"name": "keywords_en", "type": "string"},
-          {"name": "dietary_tags", "type": "string"},
-          {"name": "source", "type": "string"},
-          {"name": "date_added", "type": "date"},
-          {"name": "last_modified", "type": "date"},
-          {"name": "status", "type": "string"}
-        ]
-      }
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "cuisine_classification_json",
+      "title": "Cuisine Classification (JSON / FR-NL-EN) - v1.0.2",
+      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "cuisine_classification_xml",
+      "title": "Cuisine Classification (XML / FR-NL-EN) - v1.0.2",
+      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.xml",
+      "format": "xml",
+      "mediatype": "application/xml"
+    },
+    {
+      "name": "cuisine_classification_sql",
+      "title": "Cuisine Classification (SQL / FR-NL-EN) - v1.0.2",
+      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.sql",
+      "format": "sql",
+      "mediatype": "application/sql"
     }
   ]
 }
