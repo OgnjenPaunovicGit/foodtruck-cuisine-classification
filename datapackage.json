@@ -1,13 +1,25 @@
 {
   "name": "foodtruck-cuisine-classification",
-  "title": "International Standard for Culinary Concepts for Food Trucks",
-  "description": "Multilingual and hierarchical classification reference of cuisines for food trucks. Designed for terminological uniformity and establishing a universal taxonomy by the Belgian Food Truck Federation (BFTFED). Published under CC BY 4.0 license.",
+  "title": {
+    "fr": "Standard international des concepts culinaires pour food trucks",
+    "nl": "Internationale standaard voor culinaire concepten voor food trucks",
+    "en": "International Standard for Culinary Concepts for Food Trucks"
+  },
+  "description": {
+    "fr": "Référentiel multilingue et hiérarchisé de classification des cuisines pour food-trucks. Conçu pour l'uniformisation terminologique et l'établissement d'une taxonomie universelle par la Belgian Food Truck Federation (BFTFED). Publié sous licence CC BY 4.0.",
+    "nl": "Meertalig en hiërarchisch referentiekader voor de classificatie van keukens voor foodtrucks. Ontworpen voor terminologische uniformiteit en het opzetten van een universele taxonomie door de Belgian Food Truck Federation (BFTFED). Gepubliceerd onder licentie CC BY 4.0.",
+    "en": "Multilingual and hierarchical classification reference of cuisines for food trucks. Designed for terminological uniformity and establishing a universal taxonomy by the Belgian Food Truck Federation (BFTFED). Published under CC BY 4.0 license."
+  },
   "id": "http://belgianfoodtruckfederation.org/dataset/yaml/opendata/foodtruck-cuisine-classification/",
   "version": "1.0.2",
-  "keywords": ["food trucks", "cuisine", "taxonomy", "classification", "open data", "international", "culinary concept"],
+  "keywords": {
+    "fr": ["food trucks","cuisine","taxonomie","classification","open data","international","concept culinaire"],
+    "nl": ["food trucks","keuken","taxonomie","classificatie","open data","internationaal","culinair concept"],
+    "en": ["food trucks","cuisine","taxonomy","classification","open data","international","culinary concept"]
+  },
   "created": "2025-01-01",
   "modified": "2025-12-11",
-  "languages": ["fr", "nl", "en"],
+  "languages": ["fr","nl","en"],
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -15,41 +27,22 @@
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
-  "author": {
-    "name": "Belgian Food Truck Federation (BFTFED)",
-    "mbox": "support@bftfed.be",
-    "url": "https://www.belgianfoodtruckfederation.org",
-    "type": "organization"
-  },
+  "author": [
+    {
+      "family-names": "Willot",
+      "given-names": "Fabrice",
+      "affiliation": "Belgian Food Truck Federation (BFTFED)",
+      "email": "support@bftfed.be"
+    },
+    {
+      "name": "Belgian Food Truck Federation (BFTFED)",
+      "affiliation": "BelgianFoodTruckFederation.org",
+      "email": "support@bftfed.be"
+    }
+  ],
   "spatial": "http://publications.europa.eu/resource/authority/continent/WORLD",
   "resources": [
     {
       "name": "cuisine_classification_csv",
       "title": "Cuisine Classification (CSV / FR-NL-EN) - v1.0.2",
-      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.csv",
-      "format": "csv",
-      "mediatype": "text/csv"
-    },
-    {
-      "name": "cuisine_classification_json",
-      "title": "Cuisine Classification (JSON / FR-NL-EN) - v1.0.2",
-      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.json",
-      "format": "json",
-      "mediatype": "application/json"
-    },
-    {
-      "name": "cuisine_classification_xml",
-      "title": "Cuisine Classification (XML / FR-NL-EN) - v1.0.2",
-      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.xml",
-      "format": "xml",
-      "mediatype": "application/xml"
-    },
-    {
-      "name": "cuisine_classification_sql",
-      "title": "Cuisine Classification (SQL / FR-NL-EN) - v1.0.2",
-      "path": "https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.sql",
-      "format": "sql",
-      "mediatype": "application/sql"
-    }
-  ]
-}
+      "path": "https://github.com/bftfed-team/foodtruck-cuisi
