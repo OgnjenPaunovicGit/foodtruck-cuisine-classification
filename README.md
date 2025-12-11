@@ -44,8 +44,7 @@ This dataset provides a **standardized, multilingual** (FR / NL / EN) nomenclatu
 | `date_updated` | Last update date |
 | `notes`        | Optional notes |
 
-**Available Formats:** SQL, CSV, JSON, XML, YML  
-(Automatically generated.)
+**Available Formats:** SQL, CSV, JSON, XML, YML  (Automatically generated.)
 
 ---
 
@@ -77,7 +76,6 @@ When proposing changes, please specify:
 - `foodtruck-cuisine-classification-bftfed.json`
 - `foodtruck-cuisine-classification-bftfed.yml`
 - `foodtruck-cuisine-classification-bftfed.xml`
-
 ---
 
 ## 🌐 Recommended Usage
@@ -99,3 +97,5 @@ Each entry includes:
 
 **Maintained by:** Belgian Food Truck Federation (BFTFed.)  
 **Contact:** support@bftfed.be
+**Version:** 1.0.2
+**Publication Date:** 2025-12-11
