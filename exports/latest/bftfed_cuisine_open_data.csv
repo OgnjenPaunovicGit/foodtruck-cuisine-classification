@@ -1,0 +1,163 @@
+# OPEN DATASET
+# VERSION: 1.0.2
+# LICENSE: CC BY 4.0 (Attribution: BelgianFoodTruckFederation.org - Fabrice Willot)
+# Export Date: 2025-12-11 13:43:27
+concept_id;type_fr;type_nl;type_en;category_fr;category_nl;category_en;subcategory1_fr;subcategory1_nl;subcategory1_en;subcategory2_fr;subcategory2_nl;subcategory2_en;keywords_fr;keywords_nl;keywords_en;dietary_tags;source;date_added;last_modified;status
+2;Boissons;Dranken;drinks;"Alcool divers";"Diverse alcoholische dranken";alcohol;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+3;Boissons;Dranken;drinks;Bières;Bieren;beers;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+4;Boissons;Dranken;drinks;Cafés;Koffie;coffee;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+5;Boissons;Dranken;drinks;Cocktails;Cocktails;Cocktails;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+6;Boissons;Dranken;drinks;"Boissons chaudes";"Warme dranken";"Hot drinks";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+7;Boissons;Dranken;drinks;"Jus de fruits";Vruchtensappen;juice;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+8;Boissons;Dranken;drinks;Smoothies;Smoothies;Smoothies;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+9;Boissons;Dranken;drinks;Thés;Thee;teas;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+10;Boissons;Dranken;drinks;Vins;Wijnen;wines;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+11;Boissons;Dranken;drinks;;;;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+12;Concept;;Concept;"Dim Sum";"Dim Sum";"Dim Sum";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+13;Concept;;Concept;Sushi;Sushi;Sushi;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+14;Concept;;Concept;Tapas;Tapas;Tapas;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+15;Concept;;Concept;Durum;Durum;Durum;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+16;Concept;;Concept;Viandes;Vlees;Meats;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+17;Concept;;Concept;"Fruits de mer";Zeevruchten;Seafood;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+18;Concept;;Concept;Bagels;Bagels;Bagels;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+19;Concept;;Concept;insectes;Insecten;bugs;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+20;Concept;;Concept;Hamburger;Hamburger;Hamburger;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+21;Concept;;Concept;Fromages;Kaas;Cheeses;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+22;Concept;;Concept;Poissons;Vis;fish;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+23;Concept;;Concept;"Fish and chips";"Fish and chips";"Fish and chips";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+24;Concept;;Concept;Frites;Frieten;fries;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+25;Concept;;Concept;"Grillade et barbecue";"Grillen en barbecue";"Grilling and barbecue";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+26;Concept;;Concept;"Croques / Grilled cheese";"Croques / Grilled cheese";"Croques / Grilled cheese";;;;;;;"croque monsieur, croque madame, grilled cheese, sandwich chaud, fromage fondu";"croque monsieur, croque madame, grilled cheese, warme sandwich, gesmolten kaas";"croque monsieur, croque madame, grilled cheese, hot sandwich, melted cheese";;BFTFED;2025-11-30;"2025-11-30 17:55:40";validated
+27;Concept;;Concept;Kasher;Koosjer;kosher;;;;;;;;;;kosher;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+28;Concept;;Concept;Halal;Halal;Halal;;;;;;;;;;halal;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+29;Concept;;Concept;"Hot dog";"Hot dog";"Hot dog";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+30;Concept;;Concept;Kebab;Kebab;Kebab;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+31;Concept;;Concept;Bio;Biologisch;Organic;;;;;;;;;;organic;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+32;Concept;;Concept;Paella;Paella;Paella;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+33;Concept;;Concept;Pâtes;Pasta;Pasta;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+34;Concept;;Concept;"Tartes / Quiches";"Taarten / Quiches";"pies / quiches";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+35;Concept;;Concept;Pizza;Pizza;Pizza;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+36;Concept;;Concept;Locale;Lokaal;Local;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+37;Concept;;Concept;Bistronomie;Bistronomie;Bistronomy;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+38;Concept;;Concept;"Slow food";"Slow food";"Slow food";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+39;Concept;;Concept;Soupes;Soepen;soups;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+40;Concept;;Concept;Végane;Veganistisch;vegan;;;;;;;;;;vegan,vegetarian,dairy-free,egg-free;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+41;Concept;;Concept;Végétarienne;Vegetarisch;Vegetarian;;;;;;;;;;vegetarian;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+42;Concept;;Concept;"Crêpes / galettes";Pannenkoeken;Pancakes;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+43;Concept;;Concept;Gaufres;Wafels;Waffles;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+44;Concept;;Concept;"Pomme de terre";Aardappel;potato;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+45;Concept;;Concept;Wrap;Wrap;Wrap;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:41:34";validated
+46;Desserts;Nagerechten;Desserts;yaourt;Yoghurt;yogurt;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+47;Desserts;Nagerechten;Desserts;Glace;IJs;"ice cream";;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+48;Desserts;Nagerechten;Desserts;"Crêpes / galettes";Pannenkoeken;Pancakes;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+49;Desserts;Nagerechten;Desserts;Gaufres;Wafels;Waffles;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+50;Desserts;Nagerechten;Desserts;Churros;Churros;Churros;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+51;Desserts;Nagerechten;Desserts;Autres;Andere;Others;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+52;Ethnique;Etnisch;Ethnic;Africaine;Afrikaans;african;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+53;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Acadienne;Acadisch;Acadian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+54;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Amish;Amish;Amish;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+55;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Californienne;Californisch;Californian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+56;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Canadienne;Canadees;Canadian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+57;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Amérindienne;Inheems-Amerikaans;"Native American";;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+58;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Texane;Texaans;Texan;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+59;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+60;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;Chinoise;Chinees;Chinese;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+61;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;Japonaise;Japans;Japanese;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+62;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;Thaïlandaise;Thais;Thai;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+63;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;Vietnamienne;Vietnamees;Vietnamese;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+64;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;Coréenne;Koreaans;Korean;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+65;Ethnique;Etnisch;Ethnic;Asiatique;Aziatisch;Asian;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+66;Ethnique;Etnisch;Ethnic;Caribéenne;Caribisch;Caribbean;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+67;Ethnique;Etnisch;Ethnic;Créole;Creools;Creole;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+68;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Autrichienne;Oostenrijks;Austrian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+69;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Basque;Baskisch;Basque;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+70;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Belge;Belgisch;Belgian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+71;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;British;Brits;British;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+72;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Bulgare;Bulgaars;Bulgarian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+73;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Italienne;Italiaans;Italian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+74;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Espagnole;Spaans;Spanish;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+75;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Allemande;Duits;German;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+76;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+77;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+78;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Alsacienne;Elzasser;Alsatian;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+79;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Bourguignonne;Bourgondisch;Burgundian;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+80;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Bretonne;Bretons;Breton;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+81;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Chti;Chti;Chti;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+82;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Camarguaise;Camargue;Camargue;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+83;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Française;Frans;French;Savoyarde;Savoyard;Savoyard;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+85;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Hongroise;Hongaars;Hungarian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+87;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Polonaise;Pools;Polish;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+88;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Portugaise;Portugees;Portuguese;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+89;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Provençale;Provençaals;Provençal;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+90;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Roumaine;Roemeens;Romanian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+91;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Russe;Russisch;Russian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+92;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Scottish;Schots;Scottish;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+93;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Slovaque;Slowaaks;Slovak;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+95;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Suisse;Zwitsers;Swiss;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+96;Ethnique;Etnisch;Ethnic;Indienne;Indiaas;indian;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+97;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+98;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Bolivienne;Boliviaans;Bolivian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+99;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Brésilienne;Braziliaans;Brazilian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+100;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Chilienne;Chileens;Chilean;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+101;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Colombienne;Colombiaans;Colombian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+102;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Équatorienne;Ecuadoraans;Ecuadorian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+103;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Mexicaine;Mexicaans;Mexican;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+104;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Péruvienne;Peruaans;Peruvian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+105;Ethnique;Etnisch;Ethnic;Latino;Latijns-Amerikaans;Latino;Vénézuélienne;Venezolaans;Venezuelan;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+106;Ethnique;Etnisch;Ethnic;Méditerranéenne;Mediterraans;Mediterranean;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+107;Ethnique;Etnisch;Ethnic;Méditerranéenne;Mediterraans;Mediterranean;Chypriote;Cypriotisch;Cypriot;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+108;Ethnique;Etnisch;Ethnic;Méditerranéenne;Mediterraans;Mediterranean;Grecque;Grieks;Greek;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+109;Ethnique;Etnisch;Ethnic;Méditerranéenne;Mediterraans;Mediterranean;Corse;Corsicaans;Corsican;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+110;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+111;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;Albanaise;Albanees;Albanian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+112;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;Arménienne;Armeens;Armenian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+113;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;Égyptienne;Egyptisch;Egyptian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+114;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;Libanaise;Libanees;Lebanese;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+115;Ethnique;Etnisch;Ethnic;Orientale;Oriëntaals;Oriental;Maghrébine;Maghrebijns;Maghrebian;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+116;Ethnique;Etnisch;Ethnic;Scandinave;Scandinavisch;Scandinavian;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+117;Ethnique;Etnisch;Ethnic;"du monde";Internationaal;international;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+118;Ethnique;Etnisch;Ethnic;Indonésienne;Indonesisch;indonesian;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+120;Ethnique;Etnisch;Ethnic;Américaine;Amerikaans;american;Tex-mex;Tex-Mex;Tex-Mex;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+121;Ethnique;Etnisch;Ethnic;Européenne;Europees;european;Turque;Turks;Turkish;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+122;Ethnique;Etnisch;Ethnic;Australienne;Australisch;Australian;;;;;;;;;;;BFTFED;2025-11-30;"2025-11-30 17:47:28";validated
+123;Concept;Concept;Concept;"Corn dog";"Corn dog";"Corn dog";;;;;;;"saucisse panée, pâte à frire, bâtonnet";"gepaneerde worst, frituurdeeg, stokje";"battered sausage, corn batter, stick";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+124;Concept;Concept;Concept;Nachos;Nachos;Nachos;;;;;;;"chips tortilla, fromage, jalapeños";"tortillachips, kaas, jalapeños";"tortilla chips, cheese, jalapeños";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+125;Concept;Concept;Concept;Quesadilla;Quesadilla;Quesadilla;;;;;;;"tortilla, fromage fondu, garniture";"tortilla, gesmolten kaas, vulling";"tortilla, melted cheese, filling";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+126;Concept;Concept;Concept;Burritos;Burritos;Burritos;;;;;;;"tortilla enroulée, riz, haricots, viande";"opgerolde tortilla, rijst, bonen, vlees";"wrapped tortilla, rice, beans, meat";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+127;Concept;Concept;Concept;Onigiri;Onigiri;Onigiri;;;;;;;"boulette de riz, algue nori, fourrage";"rijstbal, nori zeewier, vulling";"rice ball, nori seaweed, filling";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+128;Concept;Concept;Concept;Ramen;Ramen;Ramen;;;;;;;"nouilles japonaises, bouillon, garnitures";"Japanse noedels, bouillon, toppings";"Japanese noodles, broth, toppings";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+129;Concept;Concept;Concept;"Banh Mi";"Banh Mi";"Banh Mi";;;;;;;"sandwich vietnamien, baguette, coriandre";"Vietnamees broodje, stokbrood, koriander";"Vietnamese sandwich, baguette, cilantro";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+130;Concept;Concept;Concept;"Bao buns";"Bao buns";"Bao buns";;;;;;;"pain vapeur, garniture asiatique";"gestoomde broodjes, Aziatische vulling";"steamed buns, Asian filling";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+131;Concept;Concept;Concept;Gyoza;Gyoza;Gyoza;;;;;;;"raviolis japonais, poêlés, vapeur";"Japanse dumplings, gebakken, gestoomd";"Japanese dumplings, pan-fried, steamed";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+132;Concept;Concept;Concept;Takoyaki;Takoyaki;Takoyaki;;;;;;;"boulettes de poulpe, sauce, bonite";"octopusballetjes, saus, bonito";"octopus balls, sauce, bonito flakes";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+133;Concept;Concept;Concept;"Pad Thai";"Pad Thai";"Pad Thai";;;;;;;"nouilles sautées, cacahuètes, citron";"gebakken noedels, pindas, limoen";"stir-fried noodles, peanuts, lime";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+134;Concept;Concept;Concept;"Poke Bowl";"Poke Bowl";"Poke Bowl";;;;;;;"bol hawaïen, poisson cru, riz, légumes";"Hawaiiaanse bowl, rauwe vis, rijst, groenten";"Hawaiian bowl, raw fish, rice, vegetables";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+135;Concept;Concept;Concept;Nems;Loempia;"Spring rolls";;;;;;;"rouleau de printemps, frits, crudités";"loempia, gefrituurd, groenten";"spring rolls, fried, vegetables";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+136;Concept;Concept;Concept;Falafel;Falafel;Falafel;;;;;;;"boulettes pois chiches, frits, épices";"kikkererwtenballetjes, gefrituurd, kruiden";"chickpea balls, fried, spices";vegan,vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+137;Concept;Concept;Concept;Shawarma;Shawarma;Shawarma;;;;;;;"viande grillée, broche verticale, pita";"gegrild vlees, verticale spit, pita";"grilled meat, vertical spit, pita";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+138;Concept;Concept;Concept;Houmous;Hummus;Hummus;;;;;;;"purée pois chiches, tahini, citron";"kikkererwtenpuree, tahini, citroen";"chickpea puree, tahini, lemon";vegan,vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+139;Concept;Concept;Concept;Panini;Panini;Panini;;;;;;;"sandwich grillé, pressé, italien";"gegrilde sandwich, geperst, Italiaans";"grilled sandwich, pressed, Italian";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+140;Concept;Concept;Concept;Arancini;Arancini;Arancini;;;;;;;"boulettes de riz, frites, siciliennes";"rijstballetjes, gefrituurd, Siciliaans";"rice balls, fried, Sicilian";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+141;Concept;Concept;Concept;Empanadas;Empanadas;Empanadas;;;;;;;"chaussons farcis, viande, légumes";"gevulde pasteitjes, vlees, groenten";"stuffed pastries, meat, vegetables";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+142;Concept;Concept;Concept;Bretzel;Pretzel;Pretzel;;;;;;;"pain torsadé, sel, bicarbonate";"gedraaid brood, zout, natriumbicarbonaat";"twisted bread, salt, baking soda";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+143;Concept;Concept;Concept;Currywurst;Currywurst;Currywurst;;;;;;;"saucisse, sauce curry, frites";"worst, kerriesaus, friet";"sausage, curry sauce, fries";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+144;Concept;Concept;Concept;Beignets;Beignets;Donuts;;;;;;;"pâte frite sucrée, glaçage";"gefrituurd zoet deeg, glazuur";"fried sweet dough, glaze";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+145;Concept;Concept;Concept;Popcorn;Popcorn;Popcorn;;;;;;;"maïs soufflé, salé, sucré";"gepofte maïs, gezouten, zoet";"popped corn, salted, sweet";vegan,vegetarian,gluten-free;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+146;Concept;Concept;Concept;Nuggets;Nuggets;Nuggets;;;;;;;"bouchées de poulet panées, frits";"gepaneerde kiphapjes, gefrituurd";"breaded chicken bites, fried";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+147;Concept;Concept;Concept;"Ailes de poulet";Kippenvleugels;"Chicken wings";;;;;;;"ailes frites, sauce piquante, BBQ";"gefrituurde vleugels, pittige saus, BBQ";"fried wings, hot sauce, BBQ";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+149;Concept;Concept;Concept;"Buddha Bowl";"Buddha Bowl";"Buddha Bowl";;;;;;;"bol végétarien, céréales, légumes";"vegetarische bowl, granen, groenten";"vegetarian bowl, grains, vegetables";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+150;Concept;Concept;Concept;Salades;Salades;Salads;;;;;;;"salades composées, crudités, vinaigrette";"samengestelde salades, rauwe groenten, vinaigrette";"mixed salads, raw vegetables, dressing";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+151;Desserts;Nagerechten;Desserts;"Crème glacée";IJsroom;"Soft serve ice cream";;;;;;;"glace à l'italienne, cornet, toppings";"zachte ijsroom, horentje, toppings";"soft serve, cone, toppings";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+152;Desserts;Nagerechten;Desserts;Donuts;Donuts;Donuts;;;;;;;"beignets américains, glaçage sucré";"Amerikaanse donuts, zoete glazuur";"American donuts, sweet glaze";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+153;Desserts;Nagerechten;Desserts;Brownies;Brownies;Brownies;;;;;;;"gâteau chocolat, dense, américain";"chocoladecake, dicht, Amerikaans";"chocolate cake, dense, American";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+154;Desserts;Nagerechten;Desserts;Cookies;Koekjes;Cookies;;;;;;;"biscuits américains, pépites chocolat";"Amerikaanse koekjes, chocoladeschilfers";"American cookies, chocolate chips";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+155;Desserts;Nagerechten;Desserts;Mochi;Mochi;Mochi;;;;;;;"pâtisserie japonaise, riz gluant, glace";"Japans gebak, kleefrijst, ijs";"Japanese pastry, sticky rice, ice cream";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+156;Desserts;Nagerechten;Desserts;"Bubble tea";"Bubble tea";"Bubble tea";;;;;;;"thé aux perles, tapioca, aromatisé";"thee met parels, tapioca, gearomatiseerd";"tea with pearls, tapioca, flavored";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+157;Boissons;Dranken;drinks;Milkshakes;Milkshakes;Milkshakes;;;;;;;"boisson lactée, glace, sirop";"melkdrank, ijs, siroop";"milk drink, ice cream, syrup";vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+158;Boissons;Dranken;drinks;Limonades;Limonades;Lemonades;;;;;;;"boissons rafraîchissantes, maison";"verfrissende dranken, huisgemaakt";"refreshing drinks, homemade";vegan,vegetarian;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+159;Boissons;Dranken;drinks;"Bières artisanales";"Ambachtelijke bieren";"Craft beers";;;;;;;"bières locales, microbrasseries";"lokale bieren, microbrouwerijen";"local beers, microbreweries";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+160;Concept;Concept;Concept;"Smash burger";"Smash burger";"Smash burger";;;;;;;"burger écrasé, croûte caramélisée";"geplet burger, gekarameliseerde korst";"smashed burger, caramelized crust";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+161;Concept;Concept;Concept;Tacos;Tacos;Tacos;;;;;;;"tortilla pliée, garniture mexicaine";"gevouwen tortilla, Mexicaanse vulling";"folded tortilla, Mexican filling";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+162;Concept;Concept;Concept;"Pulled pork";"Pulled pork";"Pulled pork";;;;;;;"porc effiloché, BBQ, fumé";"getrokken varkensvlees, BBQ, gerookt";"shredded pork, BBQ, smoked";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+163;Concept;Concept;Concept;"Lobster roll";"Lobster roll";"Lobster roll";;;;;;;"sandwich homard, pain brioché";"kreeftsandwich, briochebrood";"lobster sandwich, brioche bun";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated
+164;Concept;Concept;Concept;Sandwichs;Sandwiches;Sandwiches;;;;;;;"sandwichs variés, pain artisanal";"gevarieerde broodjes, ambachtelijk brood";"varied sandwiches, artisan bread";;BFTFED;2025-11-30;"2025-11-30 17:53:34";validated

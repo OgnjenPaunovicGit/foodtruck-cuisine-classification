@@ -1,0 +1,74 @@
+identifier: 'http://belgianfoodtruckfederation.org/dataset/yaml/opendata/foodtruck-cuisine-classification/'
+accessURL: 'https://belgianfoodtruckfederation.org/fr/open-data/'
+title:
+    fr: 'Standard international des concepts culinaires pour food trucks'
+    nl: 'Internationale standaard voor culinaire concepten voor food trucks'
+    en: 'International Standard for Culinary Concepts for Food Trucks'
+description:
+    fr: "Référentiel multilingue et hiérarchisé de classification des cuisines pour food-trucks. Conçu pour l'uniformisation terminologique et l'établissement d'une taxonomie universelle par la Belgian Food Truck Federation (BFTFED). Publié sous licence CC BY 4.0."
+    nl: 'Meertalig en hiërarchisch referentiekader voor de classificatie van keukens voor foodtrucks. Ontworpen voor terminologische uniformiteit en het opzetten van een universele taxonomie door de Belgian Food Truck Federation (BFTFED). Gepubliceerd onder licentie CC BY 4.0.'
+    en: 'Multilingual and hierarchical classification reference of cuisines for food trucks. Designed for terminological uniformity and establishing a universal taxonomy by the Belgian Food Truck Federation (BFTFED). Published under CC BY 4.0 license.'
+keywords:
+    fr:
+        - 'food trucks'
+        - cuisine
+        - taxonomie
+        - classification
+        - 'open data'
+        - international
+        - 'concept culinaire'
+    nl:
+        - 'food trucks'
+        - keuken
+        - taxonomie
+        - classificatie
+        - 'open data'
+        - internationaal
+        - 'culinair concept'
+    en:
+        - 'food trucks'
+        - cuisine
+        - taxonomy
+        - classification
+        - 'open data'
+        - international
+        - 'culinary concept'
+issued: '2025-01-01'
+modified: '2025-12-11'
+version: 1.0.2
+languages:
+    - fr
+    - nl
+    - en
+license: 'https://creativecommons.org/licenses/by/4.0/'
+publisher:
+    type: Organization
+    name: 'Belgian Food Truck Federation (BFTFED)'
+    mbox: 'mailto:support@bftfed.be'
+    homepage: 'https://www.belgianfoodtruckfederation.org'
+spatial: 'http://publications.europa.eu/resource/authority/continent/WORLD'
+distribution:
+    -
+        identifier: 'https://belgianfoodtruckfederation.org/fr/open-data/dwnld/csv/'
+        title: 'Cuisine Classification (CSV / FR-NL-EN) - v(1.0.2)'
+        accessURL: 'https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.csv'
+        format: CSV
+        mediaType: text/csv
+    -
+        identifier: 'https://belgianfoodtruckfederation.org/fr/open-data/dwnld/json/'
+        title: 'Cuisine Classification (JSON / FR-NL-EN) - v(1.0.2)'
+        accessURL: 'https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.json'
+        format: JSON
+        mediaType: application/json
+    -
+        identifier: 'https://belgianfoodtruckfederation.org/fr/open-data/dwnld/xml/'
+        title: 'Cuisine Classification (XML / FR-NL-EN) - v(1.0.2)'
+        accessURL: 'https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.xml'
+        format: XML
+        mediaType: application/xml
+    -
+        identifier: 'https://belgianfoodtruckfederation.org/fr/open-data/dwnld/sql/'
+        title: 'Cuisine Classification (SQL / FR-NL-EN) - v(1.0.2)'
+        accessURL: 'https://github.com/bftfed-team/foodtruck-cuisine-classification/raw/main/exports/1.0.2/open_data.sql'
+        format: SQL
+        mediaType: application/sql
